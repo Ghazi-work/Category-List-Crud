@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d502642c-96e5-4b4e-acfa-cf6d57b71420": {
+      "ProjectGuid": "d502642c-96e5-4b4e-acfa-cf6d57b71420",
+      "DisplayName": "Crud",
+      "ColorIndex": 0
+    },
+    "61b66e08-a554-45d5-924a-8e1d11bbd022": {
+      "ProjectGuid": "61b66e08-a554-45d5-924a-8e1d11bbd022",
+      "DisplayName": "Crud.DataAccess",
+      "ColorIndex": 1
+    },
+    "94736dbd-0f61-4d12-8d83-d567c8ac3ddd": {
+      "ProjectGuid": "94736dbd-0f61-4d12-8d83-d567c8ac3ddd",
+      "DisplayName": "Crud.Models",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

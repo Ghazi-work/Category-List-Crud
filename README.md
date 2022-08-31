@@ -1,4 +1,4 @@
-This application is build on .NEt Core Mvc latest 6 version.
+This application is build on .NET Core Mvc latest 6 version and uses Bootstrap theme for UI.
 
 
 Anyone can clone this code but you need to update the connection string in the application. 
